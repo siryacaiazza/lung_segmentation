@@ -1,0 +1,11 @@
+LCTSCProject2024
+LCTSC
+hidden_test_set
+data_processed
+.venv
+.github
+lctsc_metadata.csv
+*.pth
+test_cases
+*.csv
+test_cases_inference
