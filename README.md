@@ -21,7 +21,7 @@ This project tackles the problem of **automated lung segmentation** from thoraci
 Using the [Lung CT Segmentation Challenge (LCTSC)](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=24284539) dataset, this work implements a complete end-to-end pipeline: from raw DICOM data ingestion and preprocessing, through training and benchmarking multiple segmentation architectures (both 2D and 3D), to inference on unseen external data.
 
 The best model — **MAnet 3D with a ResNet34 encoder** — achieves a mean Dice score of **0.972** and a Hausdorff Distance (95th percentile) of **1.15 px** on the official test set.
-
+This project was created in collaboration with [AndreaBaraldi99]https://github.com/AndreaBaraldi99
 ---
 
 ## Table of Contents
